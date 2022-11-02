@@ -1,2 +1,1 @@
-"# NFT-Mint-Documentation" 
-"# NFT-Mint-dOC" 
+## NFT-Mint-Documentation
